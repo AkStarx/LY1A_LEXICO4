@@ -10,6 +10,7 @@ namespace LYA1_Sintaxis1
     {
         const int F = -1;
         const int E = -2;
+        int linea;
         private StreamReader archivo;
         protected StreamWriter log;
 
@@ -59,12 +60,14 @@ namespace LYA1_Sintaxis1
             archivo = new StreamReader("prueba.cpp");
             log = new StreamWriter("prueba.log");
             log.AutoFlush = true;
+            linea = 1;
         }
         public Lexico(string nombre)
         {
             archivo = new StreamReader(nombre);
             log = new StreamWriter("prueba.log");
             log.AutoFlush = true;
+            linea = 1;
         }
         public void Dispose()
         {
@@ -168,6 +171,7 @@ namespace LYA1_Sintaxis1
 
                 if (estado >= 0)
                 {
+                    // si el caracter fue enter incrementa la linea
                     archivo.Read();
                     if (estado > 0)
                     {
@@ -191,8 +195,30 @@ namespace LYA1_Sintaxis1
                     throw new Error("Lexico: Se espera un \"", log);
                 }
             }
-            setContenido(buffer);
-            log.WriteLine(getContenido() + " = " + getClasificacion());
+            else
+            {
+                setContenido(buffer);
+                if (getClasificacion() == Tipos.Identificador)
+                {
+                    switch (getContenido())
+                    {
+                        case "char":
+                        case "int":
+                        case "float": 
+                            setClasificacion(Tipos.tipoDatos);
+                            break;
+                        case "while":
+                        case "do":
+                        case "for":
+                        case "if":
+                        case "else":
+                            setClasificacion(Tipos.reservada);
+                            break;
+
+                    }
+                }
+                log.WriteLine(getContenido() + " = " + getClasificacion());
+            }
         }
         public bool FinArchivo()
         {
