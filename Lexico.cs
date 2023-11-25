@@ -10,7 +10,7 @@ namespace LYA1_Sintaxis1
     {
         const int F = -1;
         const int E = -2;
-        int linea;
+        public int linea;
         private StreamReader archivo;
         protected StreamWriter log;
 
@@ -176,6 +176,10 @@ namespace LYA1_Sintaxis1
                     if (estado > 0)
                     {
                         buffer += c;
+                    }
+                    else if (c == '\n')
+                    {
+                        linea++;
                     }
                     else
                     {

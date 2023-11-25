@@ -11,6 +11,7 @@ namespace LYA1_Sintaxis1
         {
             log.WriteLine("Error "+mensaje);
         }
+        
         public Error(string mensaje) : base(mensaje)
         {
         }
