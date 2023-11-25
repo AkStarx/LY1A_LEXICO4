@@ -206,7 +206,18 @@ namespace LYA1_Sintaxis1
             {
                 Instruccion();
             }
-
+            if ( getContenido() == "else")
+            {
+                match("else");
+                if (getContenido() == "{")
+                {
+                    bloqueInstrucciones();
+                }
+                else
+                {
+                    Instruccion();
+                }
+            }
         }
         //Condicion -> Expresion operadoRelacional Expresion
         private void Condicion()
