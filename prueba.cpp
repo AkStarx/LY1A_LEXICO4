@@ -51,16 +51,4 @@ void main()
     }
     while (i<altura*2);
     printf("\n");
-    if(altura%2==0)
-    {
-        for (i  1; i<=altura; i++)
-        {
-            for (j = 1; j<=i; j++)
-            {
-                printf("",j);
-            }
-            printf("\n");
-        }
-    }
-
 }
