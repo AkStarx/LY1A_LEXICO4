@@ -268,7 +268,7 @@ namespace LYA1_Sintaxis1
             match("(");
             Asignacion();
             Condicion();
-            match("");
+            match(";");
             Incremento();
             match(")");
             if (getContenido() == "{")
