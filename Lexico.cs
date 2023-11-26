@@ -171,7 +171,7 @@ namespace LYA1_Sintaxis1
 
                 if (estado >= 0)
                 {
-                    // si el caracter fue enter incrementa la linea
+                    // Se incrementa la linea
                     archivo.Read();
                     if (estado > 0)
                     {

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/arturo/.nuget/packages/": {}
+    "C:\\Users\\vegav\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arturo/repos/LY1A_LEXICO4/LY1A_LEXICO4.csproj",
+      "projectUniqueName": "C:\\Users\\vegav\\OneDrive\\Escritorio\\LYA1_LEXICO4\\LY1A_LEXICO4\\LY1A_LEXICO4.csproj",
       "projectName": "LY1A_LEXICO4",
-      "projectPath": "/home/arturo/repos/LY1A_LEXICO4/LY1A_LEXICO4.csproj",
-      "packagesPath": "/home/arturo/.nuget/packages/",
-      "outputPath": "/home/arturo/repos/LY1A_LEXICO4/obj/",
+      "projectPath": "C:\\Users\\vegav\\OneDrive\\Escritorio\\LYA1_LEXICO4\\LY1A_LEXICO4\\LY1A_LEXICO4.csproj",
+      "packagesPath": "C:\\Users\\vegav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vegav\\OneDrive\\Escritorio\\LYA1_LEXICO4\\LY1A_LEXICO4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/arturo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\vegav\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -54,18 +54,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.13, 7.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

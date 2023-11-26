@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pgPL6DwJhP6BTGTdCKOh4MNyg9wm4z4qjHpj9ZPTppjYs+TNS+2J/8Gr5rG/+UUF7Y8DeAO4ERhcy7BdLpXKVQ==",
+  "dgSpecHash": "KCRu9f5KY2sXZciMZsO6CyIA5c1w8VPdzfN9qOasCNR4jYUeCh6geJr8Xk521kpCsAs+JJxYKRrdjW2+9pj3VA==",
   "success": true,
-  "projectFilePath": "/home/arturo/repos/LY1A_LEXICO4/LY1A_LEXICO4.csproj",
-  "expectedPackageFiles": [
-    "/home/arturo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\vegav\\OneDrive\\Escritorio\\LYA1_LEXICO4\\LY1A_LEXICO4\\LY1A_LEXICO4.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -27,3 +27,17 @@ C:/Users/vegav/OneDrive/Escritorio/LY1A_LEXICO4/obj/Debug/net7.0/ref/LY1A_LEXICO
 /home/arturo/repos/LY1A_LEXICO4/bin/Debug/net7.0/LY1A_LEXICO4.pdb
 /home/arturo/repos/LY1A_LEXICO4/obj/Debug/net7.0/LY1A_LEXICO4.genruntimeconfig.cache
 /home/arturo/repos/LY1A_LEXICO4/obj/Debug/net7.0/ref/LY1A_LEXICO4.dll
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\bin\Debug\net7.0\LY1A_LEXICO4.exe
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\bin\Debug\net7.0\LY1A_LEXICO4.deps.json
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\bin\Debug\net7.0\LY1A_LEXICO4.runtimeconfig.json
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\bin\Debug\net7.0\LY1A_LEXICO4.dll
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\bin\Debug\net7.0\LY1A_LEXICO4.pdb
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\obj\Debug\net7.0\LY1A_LEXICO4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\obj\Debug\net7.0\LY1A_LEXICO4.AssemblyInfoInputs.cache
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\obj\Debug\net7.0\LY1A_LEXICO4.AssemblyInfo.cs
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\obj\Debug\net7.0\LY1A_LEXICO4.csproj.CoreCompileInputs.cache
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\obj\Debug\net7.0\LY1A_LEXICO4.dll
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\obj\Debug\net7.0\refint\LY1A_LEXICO4.dll
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\obj\Debug\net7.0\LY1A_LEXICO4.pdb
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\obj\Debug\net7.0\LY1A_LEXICO4.genruntimeconfig.cache
+C:\Users\vegav\OneDrive\Escritorio\LYA1_LEXICO4\LY1A_LEXICO4\obj\Debug\net7.0\ref\LY1A_LEXICO4.dll
